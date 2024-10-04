@@ -1,0 +1,55 @@
+@media screen and (max-width:690px) {
+    .navv{
+        display: none!important;
+    }
+    .bars {
+        display: inline!important;
+    }
+    
+}
+@media (max-width:477px){
+    .navvv{
+        padding: 10px 31px;
+    }
+    #hero-section{
+        padding: 10px 30px;
+        text-align: center;
+    }
+    #hero-section .hero-content h1{
+font-size: 29px;
+line-height: 30px;
+    }
+    #hero-section button{
+        padding: 14px 59px;
+    }
+    #hero-section .hero-content h3{
+        font-size: 18px;
+        margin: 0;
+    }
+    .action2{
+        gap: 0!important;
+    }
+    .box{
+        min-width: 300px;
+    }
+        .box4{
+            padding: 60px 10px!important;
+        }
+       .banner h2{
+        font-size: 33px!important;
+       }
+   .news2 button{
+    padding:11px 23px!important;
+   }
+    .product-header1 h2{
+        line-height: 13px;
+        font-size: 31px!important;
+    }
+    .news1 h2{
+        font-size: 24px!important;
+        line-height: 23px;
+    }
+    .news1 p{
+        padding-bottom: 20px;
+    }
+}
